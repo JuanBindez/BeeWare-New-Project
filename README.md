@@ -1,6 +1,10 @@
 # BeeWare-New-Project
 new project in linux
 
+![Captura de tela de 2023-05-02 15-36-39](https://user-images.githubusercontent.com/79322362/235755489-6accff5a-09c5-4af8-9166-29c4deeecddf.png)
+
+
+
 # Beeware:
 
 
