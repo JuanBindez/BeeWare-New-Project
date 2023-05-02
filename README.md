@@ -12,7 +12,10 @@ new project in linux
 ## Primeiro:
  
     sudo apt install libgirepository1.0-dev
+    
+----------
 
+    pip install -r requirements.txt
 
 ## Parte 2:
 
