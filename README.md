@@ -27,10 +27,14 @@ new project in linux
     
 ## Parte 4:
 
+    briefcase create android
+    
+## Parte 5:
+
     briefcase run android
     
     
-## Parte 5:
+## Parte 6:
 
     briefcase build android
 
